@@ -1,0 +1,416 @@
+<storeContract xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <agentInfoList>
+        <agentInfo>
+            <agentCode>0</agentCode>
+            <agentExternalId>0</agentExternalId>
+            <agentSystemId>0</agentSystemId>
+            <externalId>0</externalId>
+            <id>0</id>
+            <localId>0</localId>
+            <name/>
+            <number>0</number>
+        </agentInfo>
+    </agentInfoList>
+    <agentStatement>
+        <agentCode>0</agentCode>
+        <agentExternalId>0</agentExternalId>
+        <agentSystemId>0</agentSystemId>
+        <externalId>0</externalId>
+        <id>0</id>
+        <localId>0</localId>
+        <name/>
+        <number>0</number>
+    </agentStatement>
+    <applicationDate>17.12.2019</applicationDate>
+    <applicationProducer>da6c6efe-2a1d-40ac-8a6a-5d00cddae209</applicationProducer>
+    <atypicalConditions>
+        <accidentCoefficient>0</accidentCoefficient>
+        <civilResponsibilityCoefficient>0</civilResponsibilityCoefficient>
+        <damageCoefficient>0</damageCoefficient>
+        <theftCoefficient>0</theftCoefficient>
+    </atypicalConditions>
+    <beneficiaryList>
+        <beneficiary>
+            <person>
+                <externalId i:nil="true"/>
+                <id>ffc9cc9e-94ad-4556-98d1-5e61521106de</id>
+                <localId i:nil="true"/>
+            </person>
+        </beneficiary>
+    </beneficiaryList>
+    <bonusMalus>8</bonusMalus>
+    <branchSkkCode>
+        <externalId i:nil="true"/>
+        <id>319f1e96-3831-4824-9e77-2398dbcf9d76</id>
+        <name/>
+    </branchSkkCode>
+    <cancelDate i:nil="true"/>
+    <coeffBonusMalus>8</coeffBonusMalus>
+    <consentPersonalData>
+        <consentDate i:nil="true"/>
+        <consentExpirDate i:nil="true"/>
+        <consentFlag>false</consentFlag>
+        <consentResponsibilityFlag>false</consentResponsibilityFlag>
+    </consentPersonalData>
+    <contractDate>17.12.2019</contractDate>
+    <contractEndDate>16.12.2020</contractEndDate>
+    <contractStartDate>17.12.2019</contractStartDate>
+    <contractStatus>ca791971-3028-47bd-8c49-94582e21f6b8</contractStatus>
+    <cover>
+        <additionalVipCoverId i:nil="true"/>
+        <additionalVipCoverName i:nil="true"/>
+        <insCoverId>edf09434-5f9c-4ec1-a8b1-72a1b9220ebb</insCoverId>
+        <insCoverName>Уверенный</insCoverName>
+    </cover>
+    <currency/>
+    <discountKv>0</discountKv>
+    <division>
+        <externalId i:nil="true"/>
+        <id>319f1e96-3831-4824-9e77-2398dbcf9d76</id>
+        <name/>
+    </division>
+    <entryPointNumber>
+        <externalId i:nil="true"/>
+        <id>2</id>
+        <name>Расчет</name>
+    </entryPointNumber>
+    <filial>
+        <externalId i:nil="true"/>
+        <id>319f1e96-3831-4824-9e77-2398dbcf9d76</id>
+        <name>Челябинский</name>
+    </filial>
+    <id>a515b391-52c3-428e-8ab9-08c7410665c7</id>
+    <insuredSubjectList>
+        <insuredSubject>
+            <additionalEquipmentTotalLiability>0</additionalEquipmentTotalLiability>
+            <additionalEquipmentTotalPremium>0</additionalEquipmentTotalPremium>
+            <additionalEquipments/>
+            <insuredSubjectExtension>
+                <insuredVehicle>
+                    <actualCost>824237</actualCost>
+                    <driverLimitationType>
+                        <driverAge>0</driverAge>
+                        <drivingStartDate>17.12.2019</drivingStartDate>
+                        <externalId i:nil="true"/>
+                        <id>0ceb8e60-82ab-4c80-a790-6ad7e6ad3501</id>
+                        <name i:nil="true"/>
+                    </driverLimitationType>
+                    <inspectionInformation>
+                        <inspDate i:nil="true"/>
+                        <inspName/>
+                        <inspPhotoCount>0</inspPhotoCount>
+                        <inspResult>
+                            <externalId i:nil="true"/>
+                            <id>00000000-0000-0000-0000-000000000000</id>
+                            <name/>
+                        </inspResult>
+                        <inspType i:nil="true"/>
+                    </inspectionInformation>
+                    <isAutostart>false</isAutostart>
+                    <isNew>false</isNew>
+                    <owner>
+                        <externalId i:nil="true"/>
+                        <id>ffc9cc9e-94ad-4556-98d1-5e61521106de</id>
+                        <name>Столяров Алексей Юрьевич</name>
+                    </owner>
+                    <permittedDriversList>
+                        <permittedDriver>
+                            <bonusMalus i:nil="true"/>
+                            <bonusMalusKoeff>0</bonusMalusKoeff>
+                            <documents>
+                                <document>
+                                    <id>e8eb69a1-fd6c-44e0-a970-598763cae9f5</id>
+                                    <issueDate i:nil="true"/>
+                                    <issueName/>
+                                    <name>ВОДИТЕЛЬСКОЕ УДОСТОВЕРЕНИЕ</name>
+                                    <number>040882</number>
+                                    <serial>42УА</serial>
+                                </document>
+                            </documents>
+                            <driverAge>29</driverAge>
+                            <driverExp>9</driverExp>
+                            <driverKbmRsaId i:nil="true"/>
+                            <drivingStartDate>10.08.2010</drivingStartDate>
+                            <person>
+                                <externalId i:nil="true"/>
+                                <id>ffc9cc9e-94ad-4556-98d1-5e61521106de</id>
+                                <name>Столяров Алексей Юрьевич</name>
+                            </person>
+                        </permittedDriver>
+                    </permittedDriversList>
+                    <registrationDocument>
+                        <documentNumber i:nil="true"/>
+                        <documentSerial i:nil="true"/>
+                        <issueDate i:nil="true"/>
+                    </registrationDocument>
+                    <vehicle>
+                        <externalId i:nil="true"/>
+                        <id>6fc82688-abd1-cd7d-cfc1-2f3e8e7b4228</id>
+                        <name>SOLARIS</name>
+                    </vehicle>
+                    <vehicleMileage>105</vehicleMileage>
+                    <vehicleUsagePurpose>00000000-0000-0000-0000-000000000000</vehicleUsagePurpose>
+                </insuredVehicle>
+            </insuredSubjectExtension>
+            <riskObjectGroupList>
+                <riskObjectGroup>
+                    <coefficientList>
+                        <coefficient>
+                            <id i:nil="true"/>
+                            <value>0</value>
+                        </coefficient>
+                    </coefficientList>
+                    <riskCoinsuredObjectList/>
+                    <riskObjectList>
+                        <riskObject>
+                            <frAmount>0</frAmount>
+                            <frName/>
+                            <frType i:nil="true"/>
+                            <gapInsured>false</gapInsured>
+                            <liability>824237.27</liability>
+                            <liabilityRur>824237.27</liabilityRur>
+                            <premium>37962.33</premium>
+                            <riskId>
+                                <externalId i:nil="true"/>
+                                <id>1abb227e-68ee-415f-8da8-b6efefe75be0</id>
+                                <name>Ущерб</name>
+                            </riskId>
+                        </riskObject>
+                        <riskObject>
+                            <frAmount>0</frAmount>
+                            <frName/>
+                            <frType i:nil="true"/>
+                            <gapInsured>false</gapInsured>
+                            <liability>824237.27</liability>
+                            <liabilityRur>824237.27</liabilityRur>
+                            <premium>962.41</premium>
+                            <riskId>
+                                <externalId i:nil="true"/>
+                                <id>acbbf51b-a50d-4fd5-8a3e-b86eb3b3788f</id>
+                                <name>Хищение</name>
+                            </riskId>
+                        </riskObject>
+                    </riskObjectList>
+                </riskObjectGroup>
+            </riskObjectGroupList>
+        </insuredSubject>
+    </insuredSubjectList>
+    <insurer>
+        <externalId i:nil="true"/>
+        <id>ffc9cc9e-94ad-4556-98d1-5e61521106de</id>
+        <name>Столяров Алексей Юрьевич</name>
+    </insurer>
+    <insurerCategory>DDBAC7BE-CFB4-41AD-99BA-1D2FEC656889</insurerCategory>
+    <insurerRepresentId>da6c6efe-2a1d-40ac-8a6a-5d00cddae209</insurerRepresentId>
+    <isAtypicalApplication>false</isAtypicalApplication>
+    <isIntegration>false</isIntegration>
+    <isProlongation>false</isProlongation>
+    <liability>0</liability>
+    <login/>
+    <paymentList>
+        <payment>
+            <paymentType>25f8a6e8-e70b-4ee1-8da9-3634054b01f3</paymentType>
+        </payment>
+    </paymentList>
+    <personList>
+        <person>
+            <birthDate i:nil="true"/>
+            <birthPlace>F11CEC8E-1BB2-4AF6-86C8-48CC76098626 </birthPlace>
+            <contactList i:nil="true"/>
+            <firstName/>
+            <id>98cb97d2-4846-4f3c-8e4e-bbec8c11e8ee</id>
+            <inn/>
+            <isMarried>false</isMarried>
+            <kpp/>
+            <lastName/>
+            <okved i:nil="true"/>
+            <orgForm i:nil="true"/>
+            <orgGroup/>
+            <orgName>  </orgName>
+            <primaryAddress>
+                <building i:nil="true"/>
+                <city i:nil="true"/>
+                <flat i:nil="true"/>
+                <house i:nil="true"/>
+                <kladrStreet i:nil="true"/>
+                <street i:nil="true"/>
+                <territory>Московская область</territory>
+                <type>
+                    <externalId i:nil="true"/>
+                    <id>1cc3a819-0bbe-4f66-abe3-7bfc538832a4</id>
+                    <name i:nil="true"/>
+                </type>
+            </primaryAddress>
+            <primaryDocument i:nil="true"/>
+            <secondName/>
+            <sex>Ж</sex>
+            <type>02cd4921-5874-4237-9e37-3755598599e5</type>
+        </person>
+        <person>
+            <birthDate>23.03.1990</birthDate>
+            <birthPlace i:nil="true"/>
+            <contactList i:nil="true"/>
+            <firstName>Столяров</firstName>
+            <id>ffc9cc9e-94ad-4556-98d1-5e61521106de</id>
+            <inn i:nil="true"/>
+            <isMarried>false</isMarried>
+            <kpp i:nil="true"/>
+            <lastName>Юрьевич</lastName>
+            <okved i:nil="true"/>
+            <orgForm i:nil="true"/>
+            <orgGroup i:nil="true"/>
+            <orgName i:nil="true"/>
+            <primaryAddress>
+                <building i:nil="true"/>
+                <city i:nil="true"/>
+                <flat i:nil="true"/>
+                <house i:nil="true"/>
+                <kladrStreet i:nil="true"/>
+                <street i:nil="true"/>
+                <territory>Московская область</territory>
+                <type>
+                    <externalId i:nil="true"/>
+                    <id>1cc3a819-0bbe-4f66-abe3-7bfc538832a4</id>
+                    <name i:nil="true"/>
+                </type>
+            </primaryAddress>
+            <primaryDocument>
+                <issueDate i:nil="true"/>
+                <issueOrganization/>
+                <number>040882</number>
+                <series>42УА</series>
+                <type>e8eb69a1-fd6c-44e0-a970-598763cae9f5</type>
+            </primaryDocument>
+            <secondName>Алексей</secondName>
+            <sex>М</sex>
+            <type>02CD4921-5874-4237-9E37-3755598599E5</type>
+        </person>
+        <person>
+            <birthDate i:nil="true"/>
+            <birthPlace>F11CEC8E-1BB2-4AF6-86C8-48CC76098626 </birthPlace>
+            <contactList i:nil="true"/>
+            <firstName/>
+            <id>0d4b1dd2-0b17-4551-96eb-36671d156575</id>
+            <inn/>
+            <isMarried>false</isMarried>
+            <kpp/>
+            <lastName/>
+            <okved i:nil="true"/>
+            <orgForm i:nil="true"/>
+            <orgGroup/>
+            <orgName>  </orgName>
+            <primaryAddress>
+                <building i:nil="true"/>
+                <city i:nil="true"/>
+                <flat i:nil="true"/>
+                <house i:nil="true"/>
+                <kladrStreet i:nil="true"/>
+                <street i:nil="true"/>
+                <territory>Московская область</territory>
+                <type>
+                    <externalId i:nil="true"/>
+                    <id>1cc3a819-0bbe-4f66-abe3-7bfc538832a4</id>
+                    <name i:nil="true"/>
+                </type>
+            </primaryAddress>
+            <primaryDocument i:nil="true"/>
+            <secondName/>
+            <sex>Ж</sex>
+            <type>02cd4921-5874-4237-9e37-3755598599e5</type>
+        </person>
+    </personList>
+    <pledgeObject>
+        <externalId i:nil="true"/>
+        <id>00000000-0000-0000-0000-000000000000</id>
+        <name i:nil="true"/>
+    </pledgeObject>
+    <pledgeSubject>
+        <externalId i:nil="true"/>
+        <id>02cd4921-5874-4237-9e37-3755598599e5</id>
+        <name>  </name>
+    </pledgeSubject>
+    <pledgeType>
+        <externalId i:nil="true"/>
+        <id>6b695f29-fb11-4146-ba8f-d70a92e0ad26</id>
+        <name>НЕТ</name>
+    </pledgeType>
+    <policyNumber>19710F5C00321</policyNumber>
+    <policySeries/>
+    <premium>38924.74</premium>
+    <previousContractNumber/>
+    <product>
+        <externalId i:nil="true"/>
+        <id>adb9a96c-3138-44c6-8d66-d5dfbf8f11a7</id>
+        <name>КАСКО Legacy R (125)</name>
+    </product>
+    <productName>КАСКО</productName>
+    <requestSource>
+        <externalId i:nil="true"/>
+        <id>0</id>
+        <name>b2b</name>
+    </requestSource>
+    <rsaBonusMalus>1</rsaBonusMalus>
+    <rsaCoeffBonusMalus>0</rsaCoeffBonusMalus>
+    <saleChannel>412</saleChannel>
+    <scoringList i:nil="true"/>
+    <sppg>false</sppg>
+    <sppgCoeff>0</sppgCoeff>
+    <sysCreateUser>Aprodaa Apro</sysCreateUser>
+    <tariffTerritory>
+        <externalId i:nil="true"/>
+        <id>36cf1a1e-c122-45e5-ba0b-f1ffee9e648b</id>
+        <name>Челябинск</name>
+    </tariffTerritory>
+    <vehicleList>
+        <vehicle>
+            <bodyType>
+                <externalId i:nil="true"/>
+                <id>915fc084-cd69-4b9c-97ee-bf3410713d24</id>
+                <name i:nil="true"/>
+            </bodyType>
+            <brand>
+                <externalId i:nil="true"/>
+                <id>1efcfe84-0425-415c-8aab-32c8707f366d</id>
+                <name>HYUNDAI</name>
+            </brand>
+            <constructionDate>2018</constructionDate>
+            <damageQuantity>0</damageQuantity>
+            <enginePowerHp>123</enginePowerHp>
+            <engineType>
+                <externalId i:nil="true"/>
+                <id>9492f9e9-5b5b-4546-be35-25271560df8d</id>
+                <name i:nil="true"/>
+            </engineType>
+            <id>6fc82688-abd1-cd7d-cfc1-2f3e8e7b4228</id>
+            <isAdditionalEquipment>false</isAdditionalEquipment>
+            <isAntiTheftSystem>false</isAntiTheftSystem>
+            <licencePlate>а554аа42</licencePlate>
+            <model>
+                <externalId i:nil="true"/>
+                <id>8b206851-2e5a-460b-a483-afd2350a6f08</id>
+                <name>SOLARIS</name>
+            </model>
+            <modification/>
+            <ownerCount>1</ownerCount>
+            <purchaseDate i:nil="true"/>
+            <registrationRegion i:nil="true"/>
+            <run>105</run>
+            <transmissionType>
+                <externalId i:nil="true"/>
+                <id>5c6e8f7c-836d-4d2f-95c7-1a6054261efa</id>
+                <name i:nil="true"/>
+            </transmissionType>
+            <vehicleKind>
+                <externalId i:nil="true"/>
+                <id>89ed3959-6980-4113-a798-c7e5d8edab47</id>
+                <name>ИНОСТРАННЫЕ</name>
+            </vehicleKind>
+            <vehicleType>
+                <externalId i:nil="true"/>
+                <id>634afe52-d488-4f14-af0b-05379fff9144</id>
+                <name>ЛЕГКОВЫЕ АВТОМОБИЛИ</name>
+            </vehicleType>
+            <vin>34534534545435767</vin>
+        </vehicle>
+    </vehicleList>
+</storeContract>
